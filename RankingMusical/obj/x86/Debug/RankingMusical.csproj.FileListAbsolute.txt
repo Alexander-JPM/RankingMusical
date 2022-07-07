@@ -1,0 +1,81 @@
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\bin\Debug\RankingMusical.pdb
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\bin\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.Properties.Resources.resources
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\obj\x86\Debug\FormMusic.TopMusic.resources
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\obj\x86\Debug\FormMusic.TopMusic.es-CL.resources
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csproj.GenerateResource.Cache
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\obj\x86\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.exe
+C:\Users\Jean\Desktop\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.pdb
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.exe
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.pdb
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\bin\Debug\RankingMusical.pdb
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\bin\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.Properties.Resources.resources
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csproj.GenerateResource.Cache
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\obj\x86\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csprojResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe.config
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.resources
+C:\Users\Jean\Desktop\Proyectos\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.es-CL.resources
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe.config
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.exe
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.pdb
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\bin\Debug\RankingMusical.pdb
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\bin\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csprojResolveAssemblyReference.cache
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.Properties.Resources.resources
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.resources
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.es-CL.resources
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csproj.GenerateResource.Cache
+C:\Users\jmarin\Downloads\RankingMusical\RankingMusical\obj\x86\Debug\es-CL\RankingMusical.resources.dll
+F:\Programas\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe.config
+F:\Programas\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.exe
+F:\Programas\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.pdb
+F:\Programas\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe
+F:\Programas\RankingMusical\RankingMusical\bin\Debug\RankingMusical.pdb
+F:\Programas\RankingMusical\RankingMusical\bin\Debug\es-CL\RankingMusical.resources.dll
+F:\Programas\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csprojResolveAssemblyReference.cache
+F:\Programas\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.Properties.Resources.resources
+F:\Programas\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.resources
+F:\Programas\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.es-CL.resources
+F:\Programas\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csproj.GenerateResource.Cache
+F:\Programas\RankingMusical\RankingMusical\obj\x86\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe.config
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.exe
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.pdb
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\bin\Debug\RankingMusical.pdb
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\bin\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csprojResolveAssemblyReference.cache
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.Properties.Resources.resources
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.resources
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.es-CL.resources
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csproj.GenerateResource.Cache
+C:\Users\jmarin\Google Drive\NET\RankingMusical\RankingMusical\obj\x86\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe.config
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.exe
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.pdb
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\bin\Debug\RankingMusical.pdb
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\bin\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csprojResolveAssemblyReference.cache
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.Properties.Resources.resources
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.resources
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.es-CL.resources
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csproj.GenerateResource.Cache
+C:\Users\jean5\OneDrive\Informatica\Programas Visual Studio\RankingMusical\RankingMusical\obj\x86\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe.config
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\bin\Debug\RankingMusical.exe
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\bin\Debug\RankingMusical.pdb
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\bin\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.Properties.Resources.resources
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.resources
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.TopMusic.es-CL.resources
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.csproj.GenerateResource.Cache
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\obj\x86\Debug\es-CL\RankingMusical.resources.dll
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.exe
+C:\Users\jean5\OneDrive\Informatica\NET\WinForms\RankingMusical\RankingMusical\obj\x86\Debug\RankingMusical.pdb
